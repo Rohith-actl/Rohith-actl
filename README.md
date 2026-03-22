@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20Modelling-green)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Analytics%20%7C%20Automation-yellow)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboards-orange)
+![HTML](https://img.shields.io/badge/HTML-Workflows-orange)
 
 Actuarial Studies & Applied Finance student @ Macquarie University  
 
