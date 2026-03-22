@@ -1,7 +1,7 @@
 # Hi, I’m Rohith 👋
 
 ![Actuarial](https://img.shields.io/badge/Field-Actuarial-blue)
-![Finance](https://img.shields.io/badge/Focus-Finance-green)
+![Actl-Fin](https://img.shields.io/badge/Focus-Actl-Fin-green)
 ![Builder](https://img.shields.io/badge/Mindset-Builder-orange)
 ![Projects](https://img.shields.io/badge/Projects-10+-purple)
 ![Location](https://img.shields.io/badge/Location-Sydney-lightgrey)
