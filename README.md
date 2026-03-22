@@ -1,9 +1,11 @@
 # Hi, I’m Rohith 👋
 
-![Actuarial](https://img.shields.io/badge/Field-Actuarial-blue)
-![Builder](https://img.shields.io/badge/Mindset-Builder-orange)
-![Projects](https://img.shields.io/badge/Projects-10+-purple)
-![Location](https://img.shields.io/badge/Location-Sydney-lightgrey)
+![Actuarial](https://img.shields.io/badge/Actuarial-FIAA%20Pathway-gold)
+![Finance](https://img.shields.io/badge/Finance-Investments%20%7C%20Valuation-blue)
+![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20Modelling-green)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightgrey)
+![Python](https://img.shields.io/badge/Python-Analytics%20%7C%20Automation-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboards-orange)
 
 Actuarial Studies & Applied Finance student @ Macquarie University  
 
