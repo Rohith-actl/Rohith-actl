@@ -22,8 +22,10 @@ I optimise for **leverage, systems, and real-world impact**.
 
 A **fully self-contained web application** built to solve the fragmented actuarial recruitment process.
 
+Check it out yourself: https://rohith-actl.github.io/actuarial-application-tracker/
+
 ### What it does:
-- Tracks **90+ actuarial employers** across 10 sectors  
+- Tracks **Over 75 actuarial employers** across 10 sectors  
 - Provides **application timelines, cohort size, and competition signals**  
 - Includes **full application pipeline tracking (Applied → Offer)**  
 - Allows **custom datasets (add companies, edit fields, import/export CSV)**  
@@ -60,15 +62,15 @@ I build across 3 layers:
 
 ---
 
-# 📊 Projects (Selected)
+# 📊 Selected Projects
 
 ### 🔹 Data / Analytics
 - SQL-based data analysis projects (joins, aggregations, business insights)
-- Excel financial models (cashflows, forecasting, scenario analysis)
+- Excel financial and actuarial models (cashflows, forecasting, scenario analysis, stochastic modelling)
 - Risk modelling concepts (probability-based decision frameworks)
 
 ### 🔹 Web / Tools
-- Actuarial Tracker (flagship)
+- Actuarial Tracker
 - React-based applications (UI + state management)
 - JavaScript tools for data interaction and workflows
 
@@ -89,6 +91,7 @@ I build across 3 layers:
 - JavaScript (ES6)
 - React (Frontend basics)
 - HTML/CSS (Full UI builds)
+- Deep understanding of Artificial Intellegence
 
 ### Analytical
 - Probability & statistics
@@ -129,10 +132,10 @@ Long term:
 - Financial systems & wealth building  
 - Risk and uncertainty  
 - Business strategy  
-- High-performance habits (gym, discipline)
+- Chess
 
 ---
 
 # 📫 Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/rohith-narayanan-actl/
