@@ -28,7 +28,8 @@ Check it out yourself: https://rohith-actl.github.io/actuarial-application-track
 - Tracks **80 actuarial employers** across 10 sectors  
 - Provides **application timelines, cohort size, and competition signals**  
 - Includes **full application pipeline tracking (Applied → Offer)**  
-- Allows **custom datasets (add companies, edit fields, import/export CSV)**  
+- Allows **custom datasets (add companies, edit fields, import/export CSV)**
+- Used by over 400 students
 
 ### Technical:
 - Built in **vanilla HTML, CSS, JavaScript (no frameworks)**
