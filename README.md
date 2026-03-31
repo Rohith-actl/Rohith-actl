@@ -25,11 +25,11 @@ A **fully self-contained web application** built to solve the fragmented actuari
 Check it out yourself: https://rohith-actl.github.io/actuarial-application-tracker/
 
 ### What it does:
-- Tracks **80 actuarial employers** across 10 sectors  
+- Tracks **Over 100 actuarial employers** across 10 sectors  
 - Provides **application timelines, cohort size, and competition signals**  
 - Includes **full application pipeline tracking (Applied → Offer)**  
 - Allows **custom datasets (add companies, edit fields, import/export CSV)**
-- Used by over 400 students
+- Helped more than 400 students
 
 ### Technical:
 - Built in **vanilla HTML, CSS, JavaScript (no frameworks)**
