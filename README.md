@@ -29,7 +29,7 @@ Check it out yourself: https://rohith-actl.github.io/actuarial-application-track
 - Provides **application timelines, cohort size, and competition signals**  
 - Includes **full application pipeline tracking (Applied → Offer)**  
 - Allows **custom datasets (add companies, edit fields, import/export CSV)**
-- Helped more than 400 students
+- Helped more than 700 students
 
 ### Technical:
 - Built in **vanilla HTML, CSS, JavaScript (no frameworks)**
